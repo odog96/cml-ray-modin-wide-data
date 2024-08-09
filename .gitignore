@@ -1,0 +1,12 @@
+.Rprofile
+.bash_history
+.cache/
+.conda/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.pip/
+.virtual_documents/
+*.csv
